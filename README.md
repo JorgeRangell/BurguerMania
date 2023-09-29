@@ -4,10 +4,11 @@
 | -------------  | --- |
 | :sparkles: Nome        | Burguer Mania
 | :label: Tecnologias | HTML5, CSS3
-| :rocket: URL         |
+| :rocket: URL         | https://burguer-mania.vercel.app
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![image](https://github.com/JorgeRangell/BurguerMania/assets/101427212/3430fe90-2e09-48f7-8a5e-0b5bb11fa8e9)
+
+![image](https://github.com/JorgeRangell/BurguerMania/assets/101427212/12d55b96-c996-4c45-93fa-a82cc77a366b)
+
 
 
 
