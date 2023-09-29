@@ -1,0 +1,126 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #101016;
+    color: #ffffff;
+}
+
+img#logo{
+    height: 30%;
+    width: 30%;
+}
+
+img#banner{
+    height: 100%;
+    width: 100%;
+}
+
+.caixa{
+    text-align: center;
+    display: inline-block;
+}
+
+h1 {
+    font-size: 36px;
+    padding: 0 20px;
+}
+
+h2 {
+    font-size: 24px;
+    padding: 0 20px;
+}
+
+h3 {
+    padding: 0 20px;
+}
+
+p#sobre{
+    text-align: center;
+    padding: 0 10px;
+}
+
+section#sobre{
+    padding: 0 20px 0 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    background-color: #202133;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+img#burguer{
+    height: 330px;
+    width: 45%;
+    margin: 20px auto;
+    padding-left: 45px;
+}
+
+table{
+    width: 100%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
+  }
+
+th, td {
+    border: 1px solid #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #202133;
+}
+
+/* Responsividade */
+@media screen and (max-width: 800px) {
+    
+img#logo{
+    height: 100%;
+    width: 90%;
+    padding: 0 20px 0 10px;
+}
+main{
+    text-align: center;
+}
+img#burguer{
+    width:90%;
+    padding: 0 10px 0 0;
+    height: 100%;
+}   
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+section#sobre{
+    padding: 0 20px 0 10px;
+}
+
+nav ul li{
+    margin: 0 0 0 10px;
+}
+table{
+    height: 50%;
+    padding: 0 20px 0 10px;
+}
+}
