@@ -7,7 +7,7 @@
 | :rocket: URL         | https://burguer-mania.vercel.app
 
 
-![image](https://github.com/JorgeRangell/BurguerMania/assets/101427212/6d32e739-49dc-4d43-88f1-691c5b6707e3)
+![image](https://github.com/JorgeRangell/BurguerMania/assets/101427212/121bba01-7294-4118-bc23-98e5c9c0d700)
 
 
 ## Objetivos
