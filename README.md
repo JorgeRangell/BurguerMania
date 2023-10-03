@@ -16,3 +16,5 @@
 * Ligação entre as ações do usuário e o modelo.
 * Boas práticas com Html e Css.
 * Design responsivo.
+##
+![image](https://github.com/JorgeRangell/BurguerMania/assets/101427212/4f669bfc-463c-4b70-9365-e5120eff0043)
